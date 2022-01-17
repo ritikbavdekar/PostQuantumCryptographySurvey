@@ -1,0 +1,57 @@
+
+conclusion and abstract in the end
+
+quantum computing- quantum alegbra,quantum mechanics,quantum algorithms,quantum communication
+
+Decrease keywords
+Introduction- 
+i)cryptography and importance-security issues -internet communication
+ii)Emergence of quantum computers and communication. IBM ,Google,  
+iii)quantum computers as a threat for cryptography- AES,DES , RSA,...,
+iv)Post Quantum cryptography
+v) NIST Effort in the direction
+vi) Purpose of this study- overview of the state of art post quantum crypto, challenges 
+vii) Contributions of the study- look at survey paper
+
+Find papers that look like surveys-but don't touch- extensive,comprehensive, broader topics,taxonomy  
+References
+
+Future prospects and researchs-
+challenges- implementation, hardware ,overhead
+future prospects-
+software- extracts - mendle-citation format
+
+Challenges
+-implemenation aspects
+-mathematical aspects
+-algorithm aspects
+-
+
+sci indexed journals
+open access publishing
+
+[1]	Bernstein D.J., Heninger N., Lou P., Valenta L. (2017) Post-quantum RSA. In: Lange T., Takagi T. (eds) Post-Quantum Cryptography. PQCrypto 2017. Lecture Notes in Computer Science, vol 10346. Springer, Cham. https://doi.org/10.1007/978-3-319-59879-6_18
+[2]	Gidney, Craig, and Martin Ekerå. “How to Factor 2048 Bit RSA Integers in 8 Hours Using 20 Million Noisy Qubits.” ArXiv:1905.09749 [Quant-Ph], Dec. 2019. arXiv.org, http://arxiv.org/abs/1905.09749
+[3]	SANS Institute: Reading Room - Encryption & VPNs. https://www.sans.org/reading-room/whitepapers/vpns/paper/1006. Accessed 10 Dec. 2020.
+[4]	Grover, Lov K. “A Fast Quantum Mechanical Algorithm for Database Search.” ArXiv:Quant-Ph/9605043, Nov. 1996. arXiv.org, http://arxiv.org/abs/quant-ph/9605043.
+[5]	Hui, Jonathan. “QC — Simon’s Algorithm.” Medium, 25 Apr. 2019, https://jonathan-hui.medium.com/qc-simons-algorithm-be570a40f6de.
+[6]	Nurhadi, A. I., and N. R. Syambas. “Quantum Key Distribution (QKD) Protocols: A Survey.” 2018 4th International Conference on Wireless and Telematics (ICWT), 2018, pp. 1–5. IEEE Xplore, doi:10.1109/ICWT.2018.8527822
+[8]	Yanofsky, Noson S. “An Introduction to Quantum Computing.” ArXiv:0708.0261 [Quant-Ph], Aug. 2007. arXiv.org, http://arxiv.org/abs/0708.0261.
+[9]	Bogomolec, Xenia et al. “Towards Post-Quantum Secure Symmetric Cryptography: A Mathematical Perspective.” IACR Cryptol. ePrint Arch. 2019 (2019): 1208.
+[10]	Almazrooie, Mishal, et al. “Quantum Exhaustive Key Search with Simplified-DES as a Case Study.” SpringerPlus, vol. 5, no. 1, Sept. 2016, p. 1494. BioMed Central, doi:10.1186/s40064-016-3159-4
+[11]	Smith, Benjamin. “Pre- and Post-Quantum Diffie-Hellman from Groups, Actions, and Isogenies.” ArXiv:1809.04803 [Cs], Dec. 2019. arXiv.org, http://arxiv.org/abs/1809.04803.
+[12]	Wagner, Lane. “(Very) Basic Intro To Elliptic Curve Cryptography.” Qvault, https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/. Accessed 10 Dec. 2020.
+[13]	Bernstein, Daniel J. “Introduction to Post-Quantum Cryptography.” Post-Quantum Cryptography, edited by Daniel J. Bernstein et al., Springer, 2009, pp. 1–14. Springer Link, doi:10.1007/978-3-540-88702-7_1.
+[14]	Shpilrain, Vladimir. “Cryptanalysis of Stickel’s Key Exchange Scheme.” Computer Science – Theory and Applications, edited by Edward A. Hirsch et al., Springer, 2008, pp. 283–88. Springer Link, doi:10.1007/978-3-540-79709-8_29
+[15]	Chen, Lily, et al. Report on Post-Quantum Cryptography. NIST Internal or Interagency Report (NISTIR) 8105, National Institute of Standards and Technology, 28 Apr. 2016. csrc.nist.gov, doi:https://doi.org/10.6028/NIST.IR.8105
+[16]	Alagic, Gorjan, Jacob Alperin-Sheriff, Daniel Apon, David Cooper, Quynh Dang, John Kelsey, et al. Status Report on the Second Round of the NIST Post-Quantum Cryptography Standardization Process. NIST Internal or Interagency Report (NISTIR) 8309, National Institute of Standards and Technology, 22 July 2020. csrc.nist.gov, doi:https://doi.org/10.6028/NIST.IR.8309
+[17]	Schwabe, Peter. Kyber. https://pq-crystals.org/kyber/index.shtml. Accessed 10 Dec. 2020.
+[18]	Schwabe, Peter. Dilithium. https://pq-crystals.org/dilithium/index.shtml. Accessed 10 Dec. 2020.
+[19]	Falcon. https://falcon-sign.info/. Accessed 10 Dec. 2020.
+[20]	Classic McEliece: Intro. https://classic.mceliece.org/. Accessed 10 Dec. 2020.
+[21]	BIKE - Bit Flipping Key Encapsulation. https://bikesuite.org/#spec. Accessed 10 Dec. 2020.
+[22]	HQC. http://pqc-hqc.org/implementation.html. Accessed 10 Dec. 2020.
+[23]	“SIKE – Supersingular Isogeny Key Encapsulation.” SIKE – Supersingular Isogeny Key Encapsulation, http://sike.org/. Accessed 10 Dec. 2020.
+[24]	Casanova, et al. GeMSS- A Great Multivariate Short Signature, https://www-polsys.lip6.fr/Links/NIST/GeMSS.html.
+[25]	Schwabe, Peter. SPHINCS+. https://sphincs.org/. Accessed 10 Dec. 2020.
+[26]	Zaverucha, et al. https://microsoft.github.io/Picnic/. Accessed 10 Dec. 2020.
